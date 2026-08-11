@@ -1,6 +1,7 @@
-#include<iostream>
+#include <iostream>
 
-int main(){
-std::cout<<"HELLO WORLD";
-return 0;
+int main()
+{
+    std::cout << "HELLO WORLD" << std::endl;
+    return 0;
 }
