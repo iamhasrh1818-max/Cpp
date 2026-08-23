@@ -10,10 +10,15 @@ int main(){
 
     // another method
     int mathmarks[]={123,456,789,456};
+
+    // changing the value in the array 
+    mathmarks[0]=886;
+    
     cout<<mathmarks[0]<<endl;
     cout<<mathmarks[1]<<endl;
     cout<<mathmarks[2]<<endl;
     cout<<mathmarks[3]<<endl;
+
 
 
     // pointers and array
