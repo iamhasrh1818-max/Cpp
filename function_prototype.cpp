@@ -23,5 +23,7 @@ int sum(int a ,int b){
 }
 
 void g(){
-    cout<<"\nHello,Good Morning";
+    cout<<"\nHello,Good Morning"<<endl;
+    cout<<"you are genious";
+    
 }
