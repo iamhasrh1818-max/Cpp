@@ -1,3 +1,2 @@
-if(i%7==0){
-            break;
-        }
+
+    //     cout<<"enter elelment in array"<<element[i]<<endl;
